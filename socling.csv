@@ -1,0 +1,64 @@
+X,id,region,fdistrict,sex,phrase,phrase.tr,phrase.eng
+1,9,Moscow,Central,male,соленый огурец,solenyj ogurec,pickle
+2,1,Moscow,Central,female,соленый огурец,solenyj ogurec,pickle
+3,3,Moscow,Central,female,соленый огурец,solenyj ogurec,pickle
+4,7,Moscow,Central,male,соленый огурец,solenyj ogurec,pickle
+5,3,Moscow,Central,female,соленый огурец,solenyj ogurec,pickle
+6,8,Moscow,Central,male,соленый огурец,solenyj ogurec,pickle
+7,8,Moscow,Central,male,соленый огурец,solenyj ogurec,pickle
+8,8,Moscow,Central,male,соленый огурец,solenyj ogurec,pickle
+9,10,Moscow,Central,male,соленый огурец,solenyj ogurec,pickle
+10,7,Moscow,Central,male,соленый огурец,solenyj ogurec,pickle
+11,9,Moscow,Central,male,соленый огурец,solenyj ogurec,pickle
+12,4,Moscow,Central,female,соленый огурец,solenyj ogurec,pickle
+13,10,Moscow,Central,male,соленый огурец,solenyj ogurec,pickle
+14,7,Moscow,Central,male,соленый огурец,solenyj ogurec,pickle
+15,9,Moscow,Central,male,соленый огурец,solenyj ogurec,pickle
+16,4,Moscow,Central,female,соленый огурец,solenyj ogurec,pickle
+17,4,Moscow,Central,female,турецкий барабан,tureckij baraban,turkish drum
+18,5,Moscow,Central,female,турецкий барабан,tureckij baraban,turkish drum
+19,2,Moscow,Central,female,турецкий барабан,tureckij baraban,turkish drum
+20,2,Moscow,Central,female,турецкий барабан,tureckij baraban,turkish drum
+21,5,Moscow,Central,female,турецкий барабан,tureckij baraban,turkish drum
+22,2,Moscow,Central,female,турецкий барабан,tureckij baraban,turkish drum
+23,5,Moscow,Central,female,турецкий барабан,tureckij baraban,turkish drum
+24,5,Moscow,Central,female,турецкий барабан,tureckij baraban,turkish drum
+25,8,Moscow,Central,male,турецкий барабан,tureckij baraban,turkish drum
+26,6,Moskovskaja oblast,Central,male,соленый огурец,solenyj ogurec,pickle
+27,3,Moskovskaja oblast,Central,female,соленый огурец,solenyj ogurec,pickle
+28,7,Moskovskaja oblast,Central,male,соленый огурец,solenyj ogurec,pickle
+29,7,Moskovskaja oblast,Central,male,соленый огурец,solenyj ogurec,pickle
+39,1,Arjhangelskaja oblast,Northwestern,female,соленый огурец,solenyj ogurec,pickle
+48,1,Other,Other,female,соленый огурец,solenyj ogurec,pickle
+50,1,Other,Other,female,соленый огурец,solenyj ogurec,pickle
+30,2,Respublika Saha (Jakutija),Siberian,female,соленый огурец,solenyj ogurec,pickle
+35,2,Volgogradskaja oblast,Volga,female,соленый огурец,solenyj ogurec,pickle
+36,2,Volgogradskaja oblast,Volga,female,соленый огурец,solenyj ogurec,pickle
+40,2,Other,Other,female,соленый огурец,solenyj ogurec,pickle
+41,2,Other,Other,female,соленый огурец,solenyj ogurec,pickle
+49,2,Other,Other,female,соленый огурец,solenyj ogurec,pickle
+55,2,Other,Other,female,соленый огурец,solenyj ogurec,pickle
+42,3,Other,Other,female,соленый огурец,solenyj ogurec,pickle
+43,3,Other,Other,female,соленый огурец,solenyj ogurec,pickle
+44,3,Other,Other,female,соленый огурец,solenyj ogurec,pickle
+54,3,Other,Other,female,соленый огурец,solenyj ogurec,pickle
+63,3,Khabarovskij kraj,Far Eastern,female,соленый огурец,solenyj ogurec,pickle
+31,4,Respublika Saha (Jakutija),Siberian,female,соленый огурец,solenyj ogurec,pickle
+38,4,Murmanskaja oblast,Northwestern,female,соленый огурец,solenyj ogurec,pickle
+57,4,Other,Other,female,соленый огурец,solenyj ogurec,pickle
+59,4,Other,Abroad,female,турецкий барабан,tureckij baraban,turkish drum
+32,5,Respublika Saha (Jakutija),Siberian,female,шоколадина,šokoladina,chocolate bar
+33,5,Samarskaja oblast,Volga,male,шоколадина,šokoladina,chocolate bar
+47,5,Other,Other,male,шоколадина,šokoladina,chocolate bar
+51,5,Other,Other,male,шоколадина,šokoladina,chocolate bar
+45,6,Other,Other,male,шоколадина,šokoladina,chocolate bar
+52,6,Other,Other,male,шоколадина,šokoladina,chocolate bar
+53,8,Other,Other,male,соленый огурец,solenyj ogurec,pickle
+58,8,Other,Abroad,male,соленый огурец,solenyj ogurec,pickle
+61,8,Other,Far Eastern,male,соленый огурец,solenyj ogurec,pickle
+62,8,Amurskaja oblast,Far Eastern,male,соленый огурец,solenyj ogurec,pickle
+34,9,Samarskaja oblast,Volga,male,соленый огурец,solenyj ogurec,pickle
+37,9,Altajskij kraj,Far Eastern,male,соленый огурец,solenyj ogurec,pickle
+46,9,Other,Other,male,соленый огурец,solenyj ogurec,pickle
+56,9,Other,Other,male,соленый огурец,solenyj ogurec,pickle
+60,9,Other,Other,male,соленый огурец,solenyj ogurec,pickle
